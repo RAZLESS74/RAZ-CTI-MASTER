@@ -893,6 +893,39 @@ _p = _p	+ [0];
  
 
 //--- Items
+
+_i = _i	+ ["rhs_mag_plamyam"];
+_u = _u	+ [0];
+_p = _p	+ [10];
+
+_i = _i	+ ["rhs_mag_rdg2_black"];
+_u = _u	+ [0];
+_p = _p	+ [10];
+
+_i = _i	+ ["rhs_mag_rdg2_white"];
+_u = _u	+ [0];
+_p = _p	+ [10];
+
+_i = _i	+ ["rhs_mag_rgd5"];
+_u = _u	+ [0];
+_p = _p	+ [10];
+
+_i = _i	+ ["rhs_mag_zarya2"];
+_u = _u	+ [0];
+_p = _p	+ [10];
+
+_i = _i	+ ["rhsgref_mag_rkg3em"];
+_u = _u	+ [0];
+_p = _p	+ [10];
+
+_i = _i	+ ["rhs_mag_rgo"];
+_u = _u	+ [0];
+_p = _p	+ [10];
+
+_i = _i	+ ["rhs_mag_rgn"];
+_u = _u	+ [0];
+_p = _p	+ [10];
+
 _i = _i	+ ["Binocular"];
 _u = _u	+ [0];
 _p = _p	+ [10];
