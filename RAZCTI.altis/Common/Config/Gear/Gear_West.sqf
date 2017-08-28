@@ -1317,9 +1317,13 @@ _i = _i + ["Toolkit"];
 _u = _u + [0];
 _p = _p + [25];
 
+//--- First Aid Kit delete if ace
+if (!isClass(configFile >> "CfgPatches" >> "ace_main")) then 
+{ 
 _i = _i + ["FirstAidKit"];
 _u = _u + [0];
 _p = _p + [15];
+}
 
 _i = _i + ["Medikit"];
 _u = _u + [0];
