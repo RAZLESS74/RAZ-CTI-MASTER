@@ -575,7 +575,7 @@ _u = _u + [0];
 _p = _p	+ [5];
 
 
-//--- Bandolières
+//--- BandoliÃ¨res
 
 _i = _i	+ ["V_BandollierB_khk"];
 _u = _u + [0];
@@ -799,9 +799,6 @@ _i = _i	+ ["V_Chestrig_rgr"];
 _u = _u + [0];
 _p = _p	+ [10];
 
-_i = _i	+ ["V_Chestrig_rgr"];
-_u = _u + [0];
-_p = _p	+ [10];
 //--- BackPack
 
 _i = _i	+ ["B_rhsusf_B_BACKPACK"];
