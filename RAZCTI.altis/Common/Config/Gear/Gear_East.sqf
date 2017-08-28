@@ -1,4 +1,4 @@
-private ["_faction", "_i", "_p", "_side", "_u"]; Bonjour
+private ["_faction", "_i", "_p", "_side", "_u"];
 
 _side = _this;
 _faction = "East";
@@ -1183,35 +1183,35 @@ _u = _u	+ [0];
 _p = _p	+ [3];
 
 _i = _i + ["ACE_Chemlight_IR"];
-_u = _u		+ [0];
-_p = _p		+ [3];
+_u = _u	+ [0];
+_p = _p	+ [3];
 
 _i = _i + ["ACE_Chemlight_Orange"];
-_u = _u		+ [0];
-_p = _p		+ [3];
+_u = _u	+ [0];
+_p = _p	+ [3];
 
 _i = _i + ["ACE_Chemlight_White"];
-_u = _u		+ [0];
-_p = _p		+ [3];
+_u = _u	+ [0];
+_p = _p	+ [3];
 
 _i = _i + ["ace_gunbag"];
-_u = _u		+ [0];
-_p = _p		+ [15];
+_u = _u	+ [0];
+_p = _p	+ [15];
 
 _i = _i + ["ACE_TacticalLadder_Pack"];
-_u = _u		+ [0];
-_p = _p		+ [15];
+_u = _u	+ [0];
+_p = _p	+ [15];
 };
 
 if (isClass(configFile >> "CfgPatches" >> "task_force_radio")) then 
 { 
 _i = _i + ["TFAR_bussole"];
-_u = _u		+ [0];
-_p = _p		+ [50];
+_u = _u	+ [0];
+_p = _p	+ [50];
 
 _i = _i + ["TFAR_mr3000_rhs"];
-_u = _u		+ [0];
-_p = _p		+ [75];
+_u = _u	+ [0];
+_p = _p	+ [75];
 };
 
 [_faction, _i, _u, _p] call compile preprocessFileLineNumbers "Common\Config\Gear\Gear_Config_Set.sqf"; 

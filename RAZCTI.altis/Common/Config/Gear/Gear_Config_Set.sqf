@@ -99,6 +99,8 @@ for '_i' from 0 to count(_items)-1 do {
 							default {""};
 						};
 						
+					if (isClass (configFile >> 'CfgPatches') then {_item_type = "Item"};
+						
 						if (_pushtogear) then {
 							switch (true) do { //--- Parse
 								case (_item_subtype == "Uniform"): { _gear_uniforms pushBack _item };

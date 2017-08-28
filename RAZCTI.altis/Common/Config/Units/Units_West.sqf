@@ -274,6 +274,44 @@ _f = _f + [CTI_FACTORY_BARRACKS];
 _s = _s + [""];
 
 //--- Vehicles Light
+
+_c = _c + ['rhsusf_M1117_D'];
+_p = _p + [''];
+_n = _n + [''];
+_o = _o + [175];
+_t = _t + [10];
+_u = _u + [0];
+_f = _f + [CTI_FACTORY_LIGHT];
+_s = _s + [""];
+
+_c = _c + ['rhsusf_M1083A1P2_B_M2_wd_flatbed_fmtv_usarmy'];
+_p = _p + [''];
+_n = _n + [''];
+_o = _o + [175];
+_t = _t + [10];
+_u = _u + [0];
+_f = _f + [CTI_FACTORY_LIGHT];
+_s = _s + [""];
+
+
+_c = _c + ['rhsusf_M1083A1P2_B_M2_wd_open_fmtv_usarmy'];
+_p = _p + [''];
+_n = _n + [''];
+_o = _o + [175];
+_t = _t + [10];
+_u = _u + [0];
+_f = _f + [CTI_FACTORY_LIGHT];
+_s = _s + [""];
+
+_c = _c + ['rhsusf_M1083A1P2_B_M2_wd_fmtv_usarmy'];
+_p = _p + [''];
+_n = _n + [''];
+_o = _o + [175];
+_t = _t + [10];
+_u = _u + [0];
+_f = _f + [CTI_FACTORY_LIGHT];
+_s = _s + [""];
+
 _c = _c + ['B_Quadbike_01_F'];
 _p = _p + [''];
 _n = _n + [''];
