@@ -802,7 +802,32 @@ _p = _p	+ [10];
 _i = _i	+ ["V_Chestrig_rgr"];
 _u = _u + [0];
 _p = _p	+ [10];
+
 //--- BackPack
+
+_i = _i	+ ["B_AssaultPack_kerry"];
+_u = _u + [0];
+_p = _p	+ [10];
+
+_i = _i	+ ["B_AssaultPack_mcamo"];
+_u = _u + [0];
+_p = _p	+ [10];
+
+_i = _i	+ ["B_AssaultPack_khk"];
+_u = _u + [0];
+_p = _p	+ [10];
+
+_i = _i	+ ["rhsusf_Falconii_mc"];
+_u = _u + [0];
+_p = _p	+ [10];
+
+_i = _i	+ ["rhsusf_Falconii_coy"];
+_u = _u + [0];
+_p = _p	+ [10];
+
+_i = _i	+ ["B_AssaultPack_blk"];
+_u = _u + [0];
+_p = _p	+ [10];
 
 _i = _i	+ ["B_rhsusf_B_BACKPACK"];
 _u = _u + [0];
