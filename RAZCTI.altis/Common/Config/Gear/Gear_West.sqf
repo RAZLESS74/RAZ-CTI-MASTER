@@ -435,6 +435,55 @@ _p = _p	+ [15];
 
 //--- Attachment
 
+_i = _i	+ ["rhsusf_acc_omega9K"];
+_u = _u + [0];
+_p = _p	+ [25];
+
+_i = _i	+ ["Bipod_03_F_blk"];
+_u = _u + [0];
+_p = _p	+ [25];
+
+_i = _i	+ ["Bipod_01_Fblk"];
+_u = _u + [0];
+_p = _p	+ [25];
+
+_i = _i	+ ["rhsusf_acc_ACOG_MDO"];
+_u = _u + [0];
+_p = _p	+ [25];
+
+_i = _i	+ ["rhsusf_acc_SpectreDR"];
+_u = _u + [0];
+_p = _p	+ [25];
+
+_i = _i	+ ["Optic_harnr"];
+_u = _u + [0];
+_p = _p	+ [25];
+
+_i = _i	+ ["Optic_SOS"];
+_u = _u + [0];
+_p = _p	+ [25];
+
+_i = _i	+ ["rhsusf_acc_premier_anpvs27"];
+_u = _u + [0];
+_p = _p	+ [25];
+
+
+_i = _i	+ ["rhsusf_acc_M8541_low"];
+_u = _u + [0];
+_p = _p	+ [25];
+
+_i = _i	+ ["rhsusf_acc_M8541"];
+_u = _u + [0];
+_p = _p	+ [25];
+
+_i = _i	+ ["Optic_LRPS"];
+_u = _u + [0];
+_p = _p	+ [25];
+
+_i = _i	+ ["Optic_ACO"];
+_u = _u + [0];
+_p = _p	+ [25];
+
 _i = _i	+ ["rhsusf_acc_harris_bipod"];
 _u = _u + [0];
 _p = _p	+ [25];
