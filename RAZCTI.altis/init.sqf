@@ -23,7 +23,7 @@ setObjectViewDistance 2500;
 CTI_P_SideJoined = civilian;
 
 // CTI_DEBUG = true;
-CTI_DEBUG = false;
+CTI_DEBUG = true;
 
 //--- Log levels
 CTI_Log_Debug = 3;
