@@ -35,7 +35,6 @@ for '_i' from 0 to count(_items)-1 do {
 		case (isClass (configFile >> 'CfgMagazines' >> _item)): {"CfgMagazines"};
 		case (isClass (configFile >> 'CfgVehicles' >> _item)): {"CfgVehicles"};
 		case (isClass (configFile >> 'CfgGlasses' >> _item)): {"CfgGlasses"};
-		case (isClass (configFile >> "CfgPatches" >> "ace_main")): {"nil"};
 		default {"nil"};
 	};
 	
@@ -86,6 +85,8 @@ for '_i' from 0 to count(_items)-1 do {
 					};
 					
 					if (_item == "Minedetector") then {_item_type = "Item"};
+
+					if (isClass (configFile >> "CfgPatches" >> "ace_main")) then {_item_type = "Item"};
 					
 					if (_item_type == "Item") then { //--- Items are handled differently
 						_item_subtype = switch (getNumber(configFile >> _config_type >> _item >> 'ItemInfo' >> 'type')) do {
