@@ -65,22 +65,37 @@ _i = _i	+ ["rhsusf_20Rnd_762x51_m993_Mag"];
 _u = _u + [0];
 _p = _p	+ [50];
 
-_i = _i	+ ["30Rnd_556x45_Stanag"];
+_i = _i	+ ["rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Yellow"];
 _u = _u + [0];
 _p = _p	+ [25];
 
-_i = _i	+ ["30Rnd_556x45_Stanag_Tracer_Green"];
+_i = _i	+ ["rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Red"];
 _u = _u + [0];
 _p = _p	+ [25];
 
-_i = _i	+ ["30Rnd_556x45_Stanag_Tracer_Red"];
+_i = _i	+ ["rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Orange"];
 _u = _u + [0];
 _p = _p	+ [25];
 
-_i = _i	+ ["30Rnd_556x45_Stanag_Tracer_Yellow"];
+_i = _i	+ ["rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Green"];
 _u = _u + [0];
 _p = _p	+ [25];
  
+_i = _i	+ ["rhs_mag_30Rnd_556x45_M855A1_Stanag_No_Tracer"];
+_u = _u + [0];
+_p = _p	+ [25];
+
+_i = _i	+ ["rhs_mag_30Rnd_556x45_Mk318_Stanag"];
+_u = _u + [0];
+_p = _p	+ [25];
+
+_i = _i	+ ["rhs_mag_30Rnd_556x45_Mk262_Stanag"];
+_u = _u + [0];
+_p = _p	+ [25];
+
+_i = _i	+ ["rhs_mag_mk84"];
+_u = _u + [0];
+_p = _p	+ [25];
 
 //--- Sniper
 
