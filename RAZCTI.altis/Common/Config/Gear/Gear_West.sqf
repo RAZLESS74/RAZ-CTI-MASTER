@@ -615,6 +615,14 @@ _p = _p	+ [25];
 
 //--- Uniformes
 
+_i = _i	+ ["rhs_uniforme_g3_rgr"];
+_u = _u + [0];
+_p = _p	+ [10];
+
+_i = _i	+ ["rhs_uniforme_g3_blk"];
+_u = _u + [0];
+_p = _p	+ [10];
+
 _i = _i	+ ["rhs_uniform_FROG01_d"];
 _u = _u + [0];
 _p = _p	+ [10];
@@ -875,6 +883,15 @@ _p = _p	+ [10];
 
 
 //--- Helmet
+
+
+_i = _i	+ ["rhssaf_Helmet_m97_black_nocamo"];
+_u = _u + [0];
+_p = _p	+ [10];
+
+_i = _i	+ ["rhssaf_Helmet_m97_black_nocamo_black_ess_bare"];
+_u = _u + [0];
+_p = _p	+ [10];
 
 _i = _i	+ ["rhs_Booniehat_m81"];
 _u = _u + [0];
