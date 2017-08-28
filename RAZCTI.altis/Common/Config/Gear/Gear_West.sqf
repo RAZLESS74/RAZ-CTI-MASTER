@@ -664,7 +664,7 @@ _p = _p	+ [25];
 
 //--- Uniformes
 
-_i = _i	+ ["rhs_uniforme_g3_rgr"];
+_i = _i	+ ["rhs_uniform_g3_rgr"];
 _u = _u + [0];
 _p = _p	+ [10];
 
