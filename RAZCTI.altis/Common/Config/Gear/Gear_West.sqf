@@ -655,6 +655,15 @@ _p = _p	+ [10];
  
 //--- Vestes
 
+
+_i = _i	+ ["V_TacVestIR_blk"];
+_u = _u + [0];
+_p = _p	+ [10];
+
+_i = _i	+ ["V_PlateCarrier1_blk"];
+_u = _u + [0];
+_p = _p	+ [10];
+
 _i = _i	+ ["rhsusf_iotv_ocp"];
 _u = _u + [0];
 _p = _p	+ [10];
