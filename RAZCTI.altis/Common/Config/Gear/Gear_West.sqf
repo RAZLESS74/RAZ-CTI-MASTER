@@ -1,4 +1,4 @@
-private ["_faction", "_i", "_p", "_side", "_u"];
+private ["_faction", "_i", "_p", "_side", "_u"]; Bonjour
 
 _side = _this;
 _faction = "West";
@@ -799,6 +799,9 @@ _i = _i	+ ["V_Chestrig_rgr"];
 _u = _u + [0];
 _p = _p	+ [10];
 
+_i = _i	+ ["V_Chestrig_rgr"];
+_u = _u + [0];
+_p = _p	+ [10];
 //--- BackPack
 
 _i = _i	+ ["B_rhsusf_B_BACKPACK"];
@@ -1257,6 +1260,80 @@ _p = _p	+ [10];
 
 //--- Items
 
+   _i = _i + ["WhiteHead_07"];
+_u = _u + [0];
+_p = _p + [15];
+
+   _i = _i + ["rhs_mag_nspd"];
+_u = _u + [0];
+_p = _p + [15];
+
+
+   _i = _i + ["rhs_mag_mk3a2"];
+_u = _u + [0];
+_p = _p + [15];
+
+
+   _i = _i + ["MiniGrenade"];
+_u = _u + [0];
+_p = _p + [15];
+
+   _i = _i + ["rhs_mag_mk84"];
+_u = _u + [0];
+_p = _p + [15];
+
+   _i = _i + ["rhs_mag_m7a3_cs"];
+_u = _u + [0];
+_p = _p + [15];
+
+   _i = _i + ["rhs_mag_m18_red"];
+_u = _u + [0];
+_p = _p + [15];
+
+   _i = _i + ["rhs_mag_m67"];
+_u = _u + [0];
+_p = _p + [15];
+
+   _i = _i + ["HandGrenade"];
+_u = _u + [0];
+_p = _p + [15];
+
+   _i = _i + ["rhs_mag_fakels"];
+_u = _u + [0];
+_p = _p + [15];
+
+   _i = _i + ["rhs_mag_fakel"];
+_u = _u + [0];
+_p = _p + [15];
+
+   _i = _i + ["rhs_mag_f1"];
+_u = _u + [0];
+_p = _p + [15];
+ 
+  _i = _i + ["Chemlight_green"];
+_u = _u + [0];
+_p = _p + [15];
+ 
+ _i = _i + ["Chemlight_yellow"];
+_u = _u + [0];
+_p = _p + [15];
+
+_i = _i + ["Chemlight_red"];
+_u = _u + [0];
+_p = _p + [15];
+
+_i = _i + ["Chemlight_blue"];
+_u = _u + [0];
+_p = _p + [15];
+
+_i = _i + ["rhs_mag_an_m8hc"];
+_u = _u + [0];
+_p = _p + [15];
+
+_i = _i + ["rhs_mag_an_m14_th3"];
+_u = _u + [0];
+_p = _p + [15];
+
 _i = _i + ["rhsusf_ANPVS_14"];
 _u = _u + [0];
 _p = _p + [15];
@@ -1317,13 +1394,9 @@ _i = _i + ["Toolkit"];
 _u = _u + [0];
 _p = _p + [25];
 
-//--- First Aid Kit delete if ace
-if (!isClass(configFile >> "CfgPatches" >> "ace_main")) then 
-{ 
 _i = _i + ["FirstAidKit"];
 _u = _u + [0];
 _p = _p + [15];
-}
 
 _i = _i + ["Medikit"];
 _u = _u + [0];
