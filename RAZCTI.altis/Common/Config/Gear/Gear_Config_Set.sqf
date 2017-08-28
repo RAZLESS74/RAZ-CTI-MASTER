@@ -35,7 +35,6 @@ for '_i' from 0 to count(_items)-1 do {
 		case (isClass (configFile >> 'CfgMagazines' >> _item)): {"CfgMagazines"};
 		case (isClass (configFile >> 'CfgVehicles' >> _item)): {"CfgVehicles"};
 		case (isClass (configFile >> 'CfgGlasses' >> _item)): {"CfgGlasses"};
-		case (isClass (configFile >> 'CfgPatches' >> _item)): {"Item"};
 		default {"nil"};
 	};
 	
@@ -99,6 +98,8 @@ for '_i' from 0 to count(_items)-1 do {
 							case CTI_SUBTYPE_UNIFORM: {"Uniform"};
 							default {""};
 						};
+						
+					if (isClass (configFile >> 'CfgPatches') then {_item_type = "Item"};
 						
 						if (_pushtogear) then {
 							switch (true) do { //--- Parse
