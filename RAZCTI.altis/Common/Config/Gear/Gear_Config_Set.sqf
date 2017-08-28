@@ -35,6 +35,7 @@ for '_i' from 0 to count(_items)-1 do {
 		case (isClass (configFile >> 'CfgMagazines' >> _item)): {"CfgMagazines"};
 		case (isClass (configFile >> 'CfgVehicles' >> _item)): {"CfgVehicles"};
 		case (isClass (configFile >> 'CfgGlasses' >> _item)): {"CfgGlasses"};
+		case (isClass (configFile >> "CfgPatches" >> "ace_main")): {"nil"};
 		default {"nil"};
 	};
 	
