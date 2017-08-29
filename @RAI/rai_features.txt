@@ -1,43 +1,22 @@
-ASR AI3 by Robalo
-AI modification for ARMA3
+RAI by RAZTEAM
 
-Features (incomplete list)
+The RAI is a realism focused artificial intelligence developed by the french team raz. Every AI actions are made by real
+battle tactics, and every defaults will/are fixed.
 
-Config features
+AI is:
 
-- AI's fire mode selection, rate of fire and engagement ranges are tweaked. Makes them shoot more human-like.
-- Weapon dispersion varies more with unit's skill. The lower the skill, the more increased dispersion. Makes tweaking them from the userconfig more effective.
-- Reconfigures detection skills for soldiers. Base sensitivity skill has been reduced for civilians (3->2) and increased for snipers (3.5->4).
-Enemy snipers should be harder to hide from while friendly snipers should be employed strategically.
-Hearing has been improved for soldiers but the perceived noise made by soldier movement was reduced. Makes sneaking up still possible while soldiers will
-detect other noises better overall (those made by gun shots or vehicles for example).
-- Reconfigures unit costs. Units are classified by importance in 3 levels: less (civilians, insurgents, militia), normal (regulars), more (special ops, snipers, officers).
-Units (especially players) may change equipment so it doesn't make sense to have an "AT guy" wear a big "shoot me first" sign just because he's in that "class".
-- AI units are more able to detect bullets fired.
+ADAPTATIVE : They driving properly véhicles on all terrains types. They're properly covering on every land scenario battles.
+They adapt to your manoeuvers and every new battles with him they're becoming more smarter. If they're going out of ammo,
+they take ammo, aid kits on body corpse
 
-Scripted features
+ROUGLY : They are fast, agile. But they are accurate like you depending on situations (under fire, wounded...)
 
-- The units skills are automatically configured based on their unit type, faction and the settings that can be changed in the userconfig. The skills are randomized but
-given in between a minimum and a maximum value based on the skill level each unit is assigned in. This way you can have regular unit better then guerilla but spec ops
-or snipers a lot better then all so you're able to customize but also keep the diversity. You can configure for each unit class values for their aiming, spotting and general
-skills. You can also apply global coefficients per faction. The skills are applied after the start of the mission for present units or for any units that may spawn in 
-later.
-- The view and object distance of the dedicated server is dynamically adjusted during a mission based on sun elevation and fog level. This is done because the view distance of the 
-AI on the server determines how fast they will lose a target they already became aware of. Less chances of getting shot through the thick of the fog or darkness by AI
-you can't even see.
-- AI will be alerted by explosions. They may try to get to cover. The higher state of alertness will increase the chances of detecting the enemy.
-- AI units are more able to detect gun fire. Factors which contribute to how far they can hear and how precise the information gained is:
-the ammo type, if the weapon is suppressed, foliage, houses.
-- Groups reduced to a 2 (configurable number) units after mission start will look for near friendly groups and merge with them. AI working as a team is a lot stronger then a bunch of separate units.
-- Wounded AI that is unable to walk may separate from their group and be left alone if there's no medic in the group. Helps AI groups reach their destination in a timely
-manner when one of theirs has been shot in the leg or had a stupid accident (fell of a rock and broke legs, got hit by car etc.).
-- AI share info about threats with other groups in their proximity if they have radios. Enhances awareness for groups that are not directly in contact with an enemy.
-- AI groups coming into contact while in the open will try to move to cover. Helps them survive longer when caught in the open.
-- AI machinegunners use suppressive fire. Makes them more effective and feared.
-- Buildings are used in combat by AI. You may see AI shooting from windows or rooftops and it may not be as easy to hide in a house anymore.
-- AI may move to cover and pop smoke when hit to help conceal while taking care of their wounds.
-- AI may use near vehicle or static weapons for fighting.
-- Keeps player in charge on teamSwitch to another unit; prevents leaving AI in charge to shout stupid orders that you need to cancel when you switch back to leader unit.
-- Disables fatigue for AI in player's group and enables it for currently player-controlled unit (triggered on teamSwitch only); lets AI be able to keep up with the player.
-- AI may rearm if low on ammo from nearby crates, vehicles, bodies or even friendlies rucks (eg ammo bearers).
-- AI copy leader player's stance
+CLEVER : They don't engage if they know they will lose. They don't do suicidal attack on armored véhicles and seek cover
+if they can't destroy theses.
+
+PREVENTIVE : They use mines, ammo crates, sandbags and more to defend their strategic positions.
+
+CONSOLIDATED : They heal each other with the ACE MEDICAL (advanced and basics) and the players too. They share their ammo,
+they make reinforcements.
+
+This AI is made for serious players. Enjoy it !
