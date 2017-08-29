@@ -1,0 +1,10 @@
+- HQ coherance "LAV-US" "BTR-RUS"
+-
+
+IA
+- Reload on cover
+- Driver smart
+- Autonomie de recherche "Terrain"+"Vehicules"
+- Vehicule Vs No rocket = Cover or fuir 
+- Vehicule VS Rocket = Attack 
+- IA constructor "FOB"+"Defences" Etc ...
