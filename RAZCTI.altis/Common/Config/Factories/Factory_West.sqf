@@ -81,6 +81,9 @@ _u = _u		+ ["rhsusf_m1237_MK19_usarmy_wd"];
 _u = _u		+ ["rhsusf_M1078A1P2_wd_fmtv_usarmy"];
 _u = _u		+ ["rhsusf_M1078A1P2_wd_flatbed_fmtv_usarmy"];
 _u = _u		+ ["rhsusf_M1078A1P2_wd_open_fmtv_usarmy"];
+_u = _u		+ ["rhsusf_M1117_D"];
+_u = _u		+ ["rhsusf_M1083A1P2_B_M2_wd_flatbed_fmtv_usarmy"];
+_u = _u		+ ["rhsusf_M1083A1P2_B_M2_wd_open_fmtv_usarmy"];
 missionNamespace setVariable [format ["CTI_%1_%2Units", _side, CTI_LIGHT], _u];
 
 
