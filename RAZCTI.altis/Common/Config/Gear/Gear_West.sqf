@@ -468,77 +468,77 @@ _p = _p	+ [15];
 //--- Attachment
 
 _i = _i	+ ["rhsusf_acc_omega9K"];
-_u = _u + [0];
-_p = _p	+ [25];
+_u = _u + [2];
+_p = _p	+ [75];
 
 _i = _i	+ ["Bipod_03_F_blk"];
-_u = _u + [0];
-_p = _p	+ [25];
+_u = _u + [1];
+_p = _p	+ [50];
 
-_i = _i	+ ["Bipod_01_Fblk"];
-_u = _u + [0];
-_p = _p	+ [25];
+_i = _i	+ ["Bipod_01_F_blk"];
+_u = _u + [2];
+_p = _p	+ [55];
 
 _i = _i	+ ["rhsusf_acc_ACOG_MDO"];
 _u = _u + [0];
-_p = _p	+ [25];
+_p = _p	+ [75];
 
 _i = _i	+ ["rhsusf_acc_SpectreDR"];
-_u = _u + [0];
-_p = _p	+ [25];
+_u = _u + [2];
+_p = _p	+ [150];
 
 _i = _i	+ ["Optic_harnr"];
-_u = _u + [0];
-_p = _p	+ [25];
+_u = _u + [2];
+_p = _p	+ [50];
 
 _i = _i	+ ["Optic_SOS"];
-_u = _u + [0];
-_p = _p	+ [25];
+_u = _u + [2];
+_p = _p	+ [85];
 
 _i = _i	+ ["rhsusf_acc_premier_anpvs27"];
-_u = _u + [0];
-_p = _p	+ [25];
+_u = _u + [1];
+_p = _p	+ [95];
 
 
 _i = _i	+ ["rhsusf_acc_M8541_low"];
-_u = _u + [0];
-_p = _p	+ [25];
+_u = _u + [1];
+_p = _p	+ [55];
 
 _i = _i	+ ["rhsusf_acc_M8541"];
-_u = _u + [0];
-_p = _p	+ [25];
+_u = _u + [1];
+_p = _p	+ [60];
 
 _i = _i	+ ["Optic_LRPS"];
-_u = _u + [0];
-_p = _p	+ [25];
+_u = _u + [2];
+_p = _p	+ [150];
 
 _i = _i	+ ["Optic_ACO"];
-_u = _u + [0];
-_p = _p	+ [25];
+_u = _u + [1];
+_p = _p	+ [75];
 
 _i = _i	+ ["rhsusf_acc_harris_bipod"];
 _u = _u + [0];
-_p = _p	+ [25];
+_p = _p	+ [45];
 
 _i = _i	+ ["rhs_acc_at4_handler"];
 _u = _u + [0];
-_p = _p	+ [25];
+_p = _p	+ [40];
 
 _i = _i	+ ["rhsusf_acc_anpeq15A"];
 _u = _u + [0];
-_p = _p	+ [25];
+_p = _p	+ [40];
 
 _i = _i	+ ["rhsusf_acc_anpeq15"];
-_u = _u + [0];
+_u = _u + [1];
 _p = _p	+ [25];
 
 _i = _i	+ ["rhsusf_acc_anpeq15_light"];
-_u = _u + [0];
+_u = _u + [1];
 _p = _p	+ [25];
 
 _i = _i	+ ["rhsusf_acc_M2010S"];
-_u = _u + [0];
-_p = _p	+ [25];
+_u = _u + [1];
+_p = _p	+ [50];
 
 _i = _i	+ ["rhsusf_acc_anpeq15side"];
 _u = _u + [0];
@@ -549,20 +549,20 @@ _u = _u + [0];
 _p = _p	+ [25];
 
 _i = _i	+ ["rhsusf_acc_rotex5_grey"];
-_u = _u + [0];
-_p = _p	+ [25];
+_u = _u + [1];
+_p = _p	+ [65];
 
 _i = _i	+ ["rhsusf_acc_rotex5_tan"];
-_u = _u + [0];
-_p = _p	+ [25];
+_u = _u + [1];
+_p = _p	+ [65];
 
 _i = _i	+ ["rhsusf_acc_nt4_black"];
-_u = _u + [0];
-_p = _p	+ [25];
+_u = _u + [1];
+_p = _p	+ [50];
 
 _i = _i	+ ["rhsusf_acc_nt4_tan"];
-_u = _u + [0];
-_p = _p	+ [25];
+_u = _u + [1];
+_p = _p	+ [50];
 
 _i = _i	+ ["rhsusf_acc_muzzleFlash_SF"];
 _u = _u + [0];
@@ -601,45 +601,52 @@ _u = _u + [0];
 _p = _p	+ [25];
 
 _i = _i	+ ["rhsusf_acc_ACOG3_USMC"];
-_u = _u + [0];
-_p = _p	+ [25];
+_u = _u + [1];
+_p = _p	+ [65];
 
 _i = _i	+ ["rhsusf_acc_ACOG2_USMC"];
 _u = _u + [0];
-_p = _p	+ [25];
+_p = _p	+ [65];
 
 _i = _i	+ ["rhsusf_acc_ACOG_USMC"];
 _u = _u + [0];
-_p = _p	+ [25];
+_p = _p	+ [65];
 
 _i = _i	+ ["rhsusf_acc_ACOG3"];
 _u = _u + [0];
-_p = _p	+ [25];
+_p = _p	+ [65];
 
 _i = _i	+ ["rhsusf_acc_ACOG2"];
-_u = _u + [0];
-_p = _p	+ [25];
+_u = _u + [1];
+_p = _p	+ [65];
 
 _i = _i	+ ["rhsusf_acc_ACOG_pip"];
-_u = _u + [0];
-_p = _p	+ [25];
+_u = _u + [1];
+_p = _p	+ [65];
 
 _i = _i	+ ["rhsusf_acc_ACOG_sa"];
 _u = _u + [0];
-_p = _p	+ [25];
+_p = _p	+ [50];
 
 _i = _i	+ ["rhsusf_acc_ACOG_d"];
 _u = _u + [0];
-_p = _p	+ [25];
+_p = _p	+ [65];
 
 _i = _i	+ ["rhsusf_acc_ACOG_wd"];
 _u = _u + [0];
-_p = _p	+ [25];
+_p = _p	+ [65];
 
 _i = _i	+ ["rhsusf_acc_ACOG"];
 _u = _u + [0];
-_p = _p	+ [25];
+_p = _p	+ [65];
 
+_i = _i	+ ["rhsusf_acc_grip3"];
+_u = _u + [1];
+_p = _p	+ [60];
+
+_i = _i	+ ["rhsusf_acc_grip1"];
+_u = _u + [0];
+_p = _p	+ [45];
 
 //--- Berets
 
