@@ -965,112 +965,112 @@ _p = _p	+ [50];
 
 
 _i = _i	+ ["rhssaf_Helmet_m97_black_nocamo"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [2];
+_p = _p	+ [150];
 
 _i = _i	+ ["rhssaf_Helmet_m97_black_nocamo_black_ess_bare"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [2];
+_p = _p	+ [180];
 
 _i = _i	+ ["rhs_Booniehat_m81"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [85];
 
 _i = _i	+ ["rhs_Booniehat_marpatd"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [85];
 
 _i = _i	+ ["rhs_Booniehat_marpatwd"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [95];
 
 _i = _i	+ ["rhs_Booniehat_ocp"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [75];
 
 _i = _i	+ ["rhs_Booniehat_ucp"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [65];
 
 _i = _i	+ ["rhsusf_Bowman"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [50];
 
 _i = _i	+ ["rhsusf_ach_bare"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [60];
 
 _i = _i	+ ["rhsusf_ach_bare_des"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [70];
 
 _i = _i	+ ["rhsusf_ach_bare_des_ess"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [60];
 
 _i = _i	+ ["rhsusf_ach_bare_des_headset"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [90];
 
 _i = _i	+ ["rhsusf_ach_bare_des_headset_ess"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [90];
 
 _i = _i	+ ["rhsusf_ach_bare_ess"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [40];
 
 _i = _i	+ ["rhsusf_ach_bare_headset"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [70];
 
 _i = _i	+ ["rhsusf_ach_bare_headset_ess"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [80];
 
 _i = _i	+ ["rhsusf_ach_bare_semi"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [40];
 
 _i = _i	+ ["rhsusf_ach_bare_semi_ess"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [80];
 
 _i = _i	+ ["rhsusf_ach_bare_semi_headset"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [70];
 
 _i = _i	+ ["rhsusf_ach_bare_semi_headset_ess"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [80];
 
 _i = _i	+ ["rhsusf_ach_bare_tan"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [70];
 
 _i = _i	+ ["rhsusf_ach_bare_tan_ess"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [75];
 
 _i = _i	+ ["rhsusf_ach_bare_tan_headset"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [75];
 
 _i = _i	+ ["rhsusf_ach_bare_tan_headset_ess"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [70];
 
 _i = _i	+ ["rhsusf_ach_bare_wood"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [90];
 
 _i = _i	+ ["rhsusf_ach_bare_wood_ess"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [80];
 
 _i = _i	+ ["rhsusf_ach_bare_wood_headset"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [80];
 
 _i = _i	+ ["rhsusf_ach_bare_wood_headset_ess"];
 _u = _u + [0];
@@ -1078,311 +1078,311 @@ _p = _p	+ [10];
 
 _i = _i	+ ["rhsusf_ach_helmet_ESS_ocp"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [60];
 
 _i = _i	+ ["rhsusf_ach_helmet_ESS_ucp"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [80];
 
 _i = _i	+ ["rhsusf_ach_helmet_M81"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [70];
 
 _i = _i	+ ["rhsusf_ach_helmet_camo_ocp"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [80];
 
 _i = _i	+ ["rhsusf_ach_helmet_headset_ess_ocp"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [90];
 
 _i = _i	+ ["rhsusf_ach_helmet_headset_ess_ucp"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [80];
 
 _i = _i	+ ["rhsusf_ach_helmet_headset_ocp"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [70];
 
 _i = _i	+ ["rhsusf_ach_helmet_headset_ucp"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [90];
 
 _i = _i	+ ["rhsusf_ach_helmet_ocp"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [70];
 
 _i = _i	+ ["rhsusf_ach_helmet_ocp_norotos"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [75];
 
 _i = _i	+ ["rhsusf_ach_helmet_ucp"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [90];
 
 _i = _i	+ ["rhsusf_ach_helmet_ucp_norotos"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [50];
 
 _i = _i	+ ["rhsusf_bowman_cap"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [90];
 
 _i = _i	+ ["rhsusf_lwh_helmet_M1942"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [70];
 
 _i = _i	+ ["rhsusf_lwh_helmet_marpatd"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [60];
 
 _i = _i	+ ["rhsusf_lwh_helmet_marpatd_ess"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [85];
 
 _i = _i	+ ["rhsusf_lwh_helmet_marpatd_headset"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [80];
 
 _i = _i	+ ["rhsusf_lwh_helmet_marpatwd"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [90];
 
 _i = _i	+ ["rhsusf_lwh_helmet_marpatwd_ess"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [65];
 
 _i = _i	+ ["rhsusf_lwh_helmet_marpatwd_headset"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [80];
 
 _i = _i	+ ["rhsusf_mich_bare"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [1];
+_p = _p	+ [75];
 
 _i = _i	+ ["rhsusf_mich_bare_alt"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [1];
+_p = _p	+ [80];
 
 _i = _i	+ ["rhsusf_mich_bare_alt_semi"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [1];
+_p = _p	+ [85];
 
 _i = _i	+ ["rhsusf_mich_bare_alt_tan"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [1];
+_p = _p	+ [90];
 
 _i = _i	+ ["rhsusf_mich_bare_headset"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [1];
+_p = _p	+ [95];
 
 _i = _i	+ ["rhsusf_mich_bare_norotos"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [1];
+_p = _p	+ [95];
 
 _i = _i	+ ["rhsusf_mich_bare_norotos_alt"];
-_u = _u + [0];
+_u = _u + [1];
 _p = _p	+ [10];
 
 _i = _i	+ ["rhsusf_mich_bare_norotos_alt_headset"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [85];
 
 _i = _i	+ ["rhsusf_mich_bare_norotos_alt_semi"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [1];
+_p = _p	+ [80];
 
 _i = _i	+ ["rhsusf_mich_bare_norotos_alt_semi_headset"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [1];
+_p = _p	+ [80];
 
 _i = _i	+ ["rhsusf_mich_bare_norotos_alt_tan"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [1];
+_p = _p	+ [80];
 
 _i = _i	+ ["rhsusf_mich_bare_norotos_alt_tan_headset"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [1];
+_p = _p	+ [80];
 
 _i = _i	+ ["rhsusf_mich_bare_norotos_arc"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [1];
+_p = _p	+ [80];
 
 _i = _i	+ ["rhsusf_mich_bare_norotos_arc_alt"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [1];
+_p = _p	+ [90];
 
 _i = _i	+ ["rhsusf_mich_bare_norotos_arc_alt_headset"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [1];
+_p = _p	+ [90];
 
 _i = _i	+ ["rhsusf_mich_bare_norotos_arc_alt_semi"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [1];
+_p = _p	+ [80];
 
 _i = _i	+ ["rhsusf_mich_bare_norotos_arc_alt_semi_headset"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [1];
+_p = _p	+ [95];
 
 _i = _i	+ ["rhsusf_mich_bare_norotos_arc_alt_tan"];
 _u = _u + [0];
-_p = _p	+ [10];
+_p = _p	+ [70];
 
 _i = _i	+ ["rhsusf_mich_bare_norotos_arc_alt_tan_headset"];
 _u = _u + [0];
 _p = _p	+ [10];
 
 _i = _i	+ ["rhsusf_mich_bare_norotos_arc_headset"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [1];
+_p = _p	+ [80];
 
 _i = _i	+ ["rhsusf_mich_bare_norotos_arc_semi"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [1];
+_p = _p	+ [60];
 
 _i = _i	+ ["rhsusf_mich_bare_norotos_arc_semi_headset"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [1];
+_p = _p	+ [75];
 
 _i = _i	+ ["rhsusf_mich_bare_norotos_arc_tan"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [1];
+_p = _p	+ [90];
 
 _i = _i	+ ["rhsusf_mich_bare_norotos_headset"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [1];
+_p = _p	+ [80];
 
 _i = _i	+ ["rhsusf_mich_bare_norotos_semi"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [1];
+_p = _p	+ [75];
 
 _i = _i	+ ["rhsusf_mich_bare_norotos_semi_headset"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [1];
+_p = _p	+ [95];
 
 _i = _i	+ ["rhsusf_mich_bare_norotos_tan"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [1];
+_p = _p	+ [65];
 
 _i = _i	+ ["rhsusf_mich_bare_norotos_tan_headset"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [1];
+_p = _p	+ [85];
 
 _i = _i	+ ["rhsusf_mich_bare_semi"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [1];
+_p = _p	+ [85];
 
 _i = _i	+ ["rhsusf_mich_bare_semi_headset"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [1];
+_p = _p	+ [80];
 
 _i = _i	+ ["rhsusf_mich_bare_tan"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [1];
+_p = _p	+ [90];
 
 _i = _i	+ ["rhsusf_mich_bare_tan_headset"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [1];
+_p = _p	+ [85];
 
 _i = _i	+ ["rhsusf_mich_helmet_marpatdItemMap"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [2];
+_p = _p	+ [95];
 
 _i = _i	+ ["rhsusf_mich_helmet_marpatd_altItemMap"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [2];
+_p = _p	+ [95];
 
 _i = _i	+ ["rhsusf_mich_helmet_marpatd_alt_headset"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [2];
+_p = _p	+ [95];
 
 _i = _i	+ ["rhsusf_mich_helmet_marpatd_headset"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [2];
+_p = _p	+ [85];
 
 _i = _i	+ ["rhsusf_mich_helmet_marpatd_norotos"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [2];
+_p = _p	+ [85];
 
 _i = _i	+ ["rhsusf_mich_helmet_marpatd_norotos_arc"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [2];
+_p = _p	+ [95];
 
 _i = _i	+ ["rhsusf_mich_helmet_marpatd_norotos_arc_headset"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [2];
+_p = _p	+ [80];
 
 _i = _i	+ ["rhsusf_mich_helmet_marpatd_norotos_headset"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [2];
+_p = _p	+ [80];
 
 _i = _i	+ ["rhsusf_mich_helmet_marpatwd"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [2];
+_p = _p	+ [75];
 
 _i = _i	+ ["rhsusf_mich_helmet_marpatwd_alt"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [2];
+_p = _p	+ [100];
 
 _i = _i	+ ["rhsusf_mich_helmet_marpatwd_alt_headset"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [2];
+_p = _p	+ [85];
 
 _i = _i	+ ["rhsusf_mich_helmet_marpatwd_headset"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [2];
+_p = _p	+ [90];
 
 _i = _i	+ ["rhsusf_mich_helmet_marpatwd_norotos"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [2];
+_p = _p	+ [75];
 
 _i = _i	+ ["rhsusf_mich_helmet_marpatwd_norotos_arc"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [2];
+_p = _p	+ [95];
 
 _i = _i	+ ["rhsusf_mich_helmet_marpatwd_norotos_arc_headset"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [2];
+_p = _p	+ [60];
 
 _i = _i	+ ["rhsusf_mich_helmet_marpatwd_norotos_headset"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [2];
+_p = _p	+ [80];
 
 _i = _i	+ ["rhsusf_opscore_bk"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [2];
+_p = _p	+ [80];
 
 _i = _i	+ ["rhsusf_opscore_coy_cover"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [2];
+_p = _p	+ [85];
 
 _i = _i	+ ["rhsusf_opscore_coy_cover_pelt"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [2];
+_p = _p	+ [90];
 
 _i = _i	+ ["rhsusf_opscore_fg"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [2];
+_p = _p	+ [75];
 
 _i = _i	+ ["rhsusf_opscore_mc_cover"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [2];
+_p = _p	+ [75];
 
 _i = _i	+ ["rhsusf_opscore_mc_cover_pelt"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [2];
+_p = _p	+ [90];
 
 _i = _i	+ ["rhsusf_opscore_rg_cover"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [2];
+_p = _p	+ [80];
 
 _i = _i	+ ["rhsusf_opscore_rg_cover_pelt"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [2];
+_p = _p	+ [75];
 
 _i = _i	+ ["rhsusf_opscore_ut"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [2];
+_p = _p	+ [75];
 
 //--- Google
 
