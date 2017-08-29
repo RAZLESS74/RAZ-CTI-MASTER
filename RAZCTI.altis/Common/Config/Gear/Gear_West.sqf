@@ -643,6 +643,14 @@ _p = _p	+ [25];
 
 //--- Berets
 
+_i = _i	+ ["G_Balaclava_oli"];
+_u = _u + [0];
+_p = _p	+ [5];
+
+_i = _i	+ ["G_Balaclava_blk"];
+_u = _u + [0];
+_p = _p	+ [5];
+
 _i = _i	+ ["H_beret_blk"];
 _u = _u + [0];
 _p = _p	+ [5];
