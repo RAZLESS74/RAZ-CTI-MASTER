@@ -238,6 +238,38 @@ _p = _p	+ [560];
 
 //--- Grenade Launcher Ammo
 
+_i = _i	+ ["1Rnd_SmokeYellow_Grenade_shell"];
+_u = _u + [0];
+_p = _p	+ [25];
+
+_i = _i	+ ["1Rnd_HE_Grenade_shell"];
+_u = _u + [0];
+_p = _p	+ [25];
+
+_i = _i	+ ["rhs_mag_m662_red"];
+_u = _u + [0];
+_p = _p	+ [25];
+
+_i = _i	+ ["rhs_mag_m661_green"];
+_u = _u + [0];
+_p = _p	+ [25];
+
+_i = _i	+ ["rhs_mag_M585_white"];
+_u = _u + [0];
+_p = _p	+ [25];
+
+_i = _i	+ ["rhs_mag_M397_HET"];
+_u = _u + [0];
+_p = _p	+ [25];
+
+_i = _i	+ ["rhs_mag_M433_HEDP"];
+_u = _u + [0];
+_p = _p	+ [25];
+
+_i = _i	+ ["rhs_mag_M441_HE"];
+_u = _u + [0];
+_p = _p	+ [25];
+
 _i = _i	+ ["rhsusf_mag_6Rnd_M441_HE"];
 _u = _u + [0];
 _p = _p	+ [25];
@@ -668,7 +700,7 @@ _i = _i	+ ["rhs_uniform_g3_rgr"];
 _u = _u + [0];
 _p = _p	+ [10];
 
-_i = _i	+ ["rhs_uniforme_g3_blk"];
+_i = _i	+ ["rhs_uniform_g3_blk"];
 _u = _u + [0];
 _p = _p	+ [10];
 
@@ -726,7 +758,6 @@ _p = _p	+ [10];
 
  
 //--- Vestes
-
 
 _i = _i	+ ["V_TacVestIR_blk"];
 _u = _u + [0];
