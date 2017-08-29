@@ -831,43 +831,43 @@ _u = _u + [1];
 _p = _p	+ [95];
 
 _i = _i	+ ["rhsusf_spc"];
-_u = _u + [0];
-_p = _p	+ [10];
+_u = _u + [1];
+_p = _p	+ [80];
 
 _i = _i	+ ["rhsusf_spc_corpsman"];
-_u = _u + [0];
+_u = _u + [1];
 _p = _p	+ [95];
 
 _i = _i	+ ["rhsusf_spc_crewman"];
-_u = _u + [0];
+_u = _u + [1];
 _p = _p	+ [65];
 
 _i = _i	+ ["rhsusf_spc_iar"];
-_u = _u + [0];
+_u = _u + [1];
 _p = _p	+ [70];
 
 _i = _i	+ ["rhsusf_spc_light"];
-_u = _u + [0];
+_u = _u + [1];
 _p = _p	+ [50];
 
 _i = _i	+ ["rhsusf_spc_marksman"];
-_u = _u + [0];
+_u = _u + [1];
 _p = _p	+ [80];
 
 _i = _i	+ ["rhsusf_spc_mg"];
-_u = _u + [0];
+_u = _u + [1];
 _p = _p	+ [75];
 
 _i = _i	+ ["rhsusf_spc_rifleman"];
-_u = _u + [0];
+_u = _u + [1];
 _p = _p	+ [60];
 
 _i = _i	+ ["rhsusf_spc_squadleader"];
-_u = _u + [0];
+_u = _u + [1];
 _p = _p	+ [85];
 
 _i = _i	+ ["rhsusf_spc_teamleader"];
-_u = _u + [0];
+_u = _u + [1];
 _p = _p	+ [95];
 
 _i = _i	+ ["V_PlateCarrier2_rgr"];
